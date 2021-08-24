@@ -1,6 +1,8 @@
 # Welcome to my GitHub! 👋😄
 
 ## About Me
+My passion for technology and computers has led me to become a software developer!
+
 My experience in the restaurant industry contributed to my huge passion for helping and meeting people!
 
 I love solving challenges and absolutely love the process of solving problems through code. 
