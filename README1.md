@@ -1,6 +1,6 @@
 # Hello everyone! 👋 
 
-### I'm always looking to contribute to open source projects!
+### I'm always looking to contribute to open source projects! 👯 
 
 ## 👨 About Me
 My passion for technology and computers has led me to become a software developer!
