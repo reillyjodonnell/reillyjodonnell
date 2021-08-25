@@ -47,7 +47,7 @@ A full stack social media app built with React and Firebase that connects people
 
 ### 2. Agnes
 
-A full stack dekstop application built with C#, Angular, Electron, and SQLite that monitors and displays the applications a user interacts with while on their computer so users can track their productivity.
+A full stack dekstop application built with C#, Angular, Electron, and SQLite that monitors and displays the applications a user interacts with while on their computer for users to track their productivity.
 
 [Source Code](https://github.com/reillyjodonnell/Agnes-GetCurrentApplication)
 
