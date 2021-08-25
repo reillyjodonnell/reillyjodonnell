@@ -49,7 +49,10 @@ A full stack social media app built with React and Firebase that connects people
 
 A full stack dekstop application built with C#, Angular, Electron, and SQLite that monitors and displays the applications a user interacts with while on their computer for users to track their productivity.
 
-[Source Code](https://github.com/reillyjodonnell/Agnes-GetCurrentApplication)
+[Backend Source Code](https://github.com/reillyjodonnell/Agnes-GetCurrentApplication)
+
+[Frontend Source Code](https://github.com/reillyjodonnell/Agnes-frontend)
+
 
 ## Connect With Me! 😊 
 <a href="https://www.linkedin.com/in/reillyjodonnell/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:odonnell.reilly.j@gmail.com/"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
