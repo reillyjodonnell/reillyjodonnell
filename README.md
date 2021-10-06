@@ -36,7 +36,7 @@ A full stack social media app built with React and Firebase that connects people
 
 [Live Site](https://memesfr.com)
 
-[Source Code](https://github.com/reillyjodonnell/Memesfr_production)
+[Source Code](https://github.com/reillyjodonnell/Memesfr)
 
 <p>
   <img src="https://github.com/reillyjodonnell/Memesfr_production/blob/main/.github/images/memesfr-test.gif" width="200px" height="430px"/> 
