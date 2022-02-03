@@ -29,8 +29,8 @@ I love solving challenges and absolutely love the process of solving problems th
 
 ### 1. Memesfr
 
-Check out the beta below 👀
-[Beta](https://memesfr.com)
+Check out the beta below 👀 <br/>
+[Beta](https://beta.memesfr.com)
 
 A full stack social media app built with React and Firebase that connects people and allows users to share memes with the community.
 
