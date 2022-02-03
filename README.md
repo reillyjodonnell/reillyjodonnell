@@ -2,12 +2,11 @@
 
 ### I'm always looking to contribute to open source projects! 💞️
 
-## 👨 About Me
-My passion for technology and computers has led me to become a software developer!
+## About Me 👀
 
-My experience in the restaurant industry contributed to my huge passion for helping and meeting people!
+I'm a Fullstack Software Engineer (React, Node, TypeScript, GraphQL)
 
-I love solving challenges and absolutely love the process of solving problems through code. 
+I'm currently spending time with Rust & Remix.
 
 ## 🚀 Skills
 <a href="https://github.com/reillyjodonnell"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a> <a href="https://github.com/reillyjodonnell"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a> 
