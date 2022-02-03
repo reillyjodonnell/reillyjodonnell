@@ -28,7 +28,7 @@ I love solving challenges and absolutely love the process of solving problems th
 
   
 
-## 🖥️ Applications
+## 🖥️ Projects
 
 ### 1. Memesfr
 
@@ -42,14 +42,6 @@ A full stack social media app built with React and Firebase that connects people
   <img src="https://github.com/reillyjodonnell/Memesfr_production/blob/main/.github/images/memesfr-test.gif" width="200px" height="430px"/> 
   <img src="https://github.com/reillyjodonnell/Memesfr_production/blob/main/.github/images/Memesfr1.gif?raw=true" width="200px" height="430px"/> 
 </p>
-
-### 2. Agnes
-
-A full stack dekstop application built with C#, Angular, Electron, and SQLite that monitors and displays the applications a user interacts with while on their computer for users to track their productivity.
-
-[Backend Source Code](https://github.com/reillyjodonnell/Agnes-GetCurrentApplication)
-
-[Frontend Source Code](https://github.com/reillyjodonnell/Agnes-frontend)
 
 
 ## Connect With Me! 😊 
