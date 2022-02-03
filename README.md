@@ -15,12 +15,10 @@ I love solving challenges and absolutely love the process of solving problems th
 <a href="https://github.com/reillyjodonnell"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a> 
 <a href="https://github.com/reillyjodonnell"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></a> 
 
-<a href="https://github.com/reillyjodonnell"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" /></a>
 <a href="https://github.com/reillyjodonnell"><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" /></a> 
 <a href="https://github.com/reillyjodonnell"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" /></a>
 <a href="https://github.com/reillyjodonnell"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a> 
 <a href="https://github.com/reillyjodonnell"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a> 
-
 <a href="https://github.com/reillyjodonnell"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> 
 <a href="https://github.com/reillyjodonnell"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a> 
 <a href="https://github.com/reillyjodonnell"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
