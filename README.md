@@ -26,14 +26,11 @@ I'm currently spending time with Rust & Remix.
 
 ### 1. Memesfr
 
-Check out the beta below 👀 <br/>
-[Beta](https://beta.memesfr.com)
-
 A full stack social media app built with React and Firebase that connects people and allows users to share memes with the community.
 
-[Live Site](https://memesfr.com)
+[Live Site](https://beta.memesfr.com)
 
-[Source Code](https://github.com/reillyjodonnell/Memesfr)
+[Source Code](https://github.com/reillyjodonnell/memesfr-beta)
 
 <p>
   <img src="https://github.com/reillyjodonnell/Memesfr_production/blob/main/.github/images/memesfr-test.gif" width="200px" height="430px"/> 
