@@ -4,7 +4,7 @@
 
 ## About Me 👀
 
-I'm a Fullstack Software Engineer (React, Node, TypeScript, GraphQL)
+I'm a Fullstack Software Engineer (React, Node, TypeScript)
 
 I'm currently spending time with Rust & Remix.
 
