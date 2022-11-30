@@ -6,7 +6,7 @@
 
 I'm a Fullstack Software Engineer (React, Node, TypeScript)
 
-I'm currently spending time with tRPC & Next 13 (server components!)
+I'm currently spending time with React Native, tRPC, & Next 13 (server components!)
 
 ## 🚀 Skills
 <a href="https://github.com/reillyjodonnell"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a> <a href="https://github.com/reillyjodonnell"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a> 
@@ -28,7 +28,7 @@ I'm currently spending time with tRPC & Next 13 (server components!)
 
 A full stack social media app built with React and Firebase that connects people and allows users to share memes with the community.
 
-[Live Site](https://beta.memesfr.com)
+[Live Site](https://memesfr.com)
 
 [Source Code](https://github.com/reillyjodonnell/memesfr-beta)
 
