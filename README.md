@@ -4,7 +4,7 @@
 
 ## About Me 👀
 
-I'm a Fullstack Software Engineer (React, Node, TypeScript)
+I'm a Fullstack Software Engineer (React, React Native, Node, TypeScript)
 
 I'm currently spending time with React Native, tRPC, & Next 13 (server components!)
 
