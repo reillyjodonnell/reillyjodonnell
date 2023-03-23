@@ -32,11 +32,6 @@ A full stack social media app built with React and Firebase that connects people
 
 [Source Code](https://github.com/reillyjodonnell/memesfr-beta)
 
-<p>
-  <img src="https://github.com/reillyjodonnell/Memesfr_production/blob/main/.github/images/memesfr-test.gif" width="200px" height="430px"/> 
-  <img src="https://github.com/reillyjodonnell/Memesfr_production/blob/main/.github/images/Memesfr1.gif?raw=true" width="200px" height="430px"/> 
-</p>
-
 
 ## Connect With Me! 😊 
 <a href="https://www.linkedin.com/in/reillyjodonnell/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:odonnell.reilly.j@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
