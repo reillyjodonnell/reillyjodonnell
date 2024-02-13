@@ -4,7 +4,7 @@
 
 ## About Me 👀
 
-I'm a senior front end engineer currently spending time with Zig/ systems programming
+I'm a front end focused engineer currently spending time with Zig/ systems programming
 
 
 ## Connect With Me! 😊 
